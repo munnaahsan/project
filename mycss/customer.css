@@ -1,0 +1,12 @@
+
+.skin-blue .main-header .logo {
+    background-color: rgb(121, 30, 101);
+}
+
+.skin-blue .main-header .logo:hover{
+    background-color:  rgb(83, 12, 68);
+}
+
+.skin-blue .main-header .navbar{
+    background-color: rgb(100, 31, 85);
+}
